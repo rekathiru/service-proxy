@@ -19,7 +19,7 @@
 
 package org.apache.servicemix.oauth2.validator;
 
-import org.wso2.carbon.identity.oauth2.OAuth2TokenValidationService;
+#import org.wso2.carbon.identity.oauth2.OAuth2TokenValidationService;
 import org.wso2.carbon.identity.oauth2.OAuth2TokenValidationServicePortType;
 import org.wso2.carbon.identity.oauth2.dto.xsd.OAuth2TokenValidationRequestDTO;
 import org.wso2.carbon.identity.oauth2.dto.xsd.ObjectFactory;
